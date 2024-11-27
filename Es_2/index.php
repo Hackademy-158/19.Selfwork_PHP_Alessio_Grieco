@@ -9,6 +9,9 @@ $text6 = "$text2"; //Correggo "$te-xt6" con "$text6" per una coesione di sintass
 $text7 = 'bevuto'; //Correggo "$text 7" con "$text6" per una coesione di sintassi
 $text8 = "tutto."; //Correggo "$text8" con "$text8;" ed il suo dato con "tutto."
 
-echo "$text1 $text2 $text3 $text4 $text5 $text2 $text7 $text8";
+// // ^ Primo Modo
+// echo "$text1 $text2 $text3 $text4 $text5 $text2 $text7 $text8";
+// // ^ Secondo Modo
+// echo  $text1. ' '. $text2. ' '. $text3. ' '. $text4. ' '. $text5. ' '. $text2. ' '. $text7. ' '. $text8;
 
 ?>
